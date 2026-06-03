@@ -29,6 +29,7 @@ class Nihira:
     tools       = ["LangGraph", "FastMCP", "React", "MongoDB"]
 
     currently   = "Building things that matter 🚀"
+    fun_fact    = "I animated satellites and taught AI to handle finances 🛰️💸"
 ```
 
 <br/>
@@ -43,9 +44,9 @@ Hey! I'm Nihira — a CS undergrad at MNNIT Allahabad who loves turning ideas in
 
 | Project | Description | Tech |
 |:-------:|:-----------:|:----:|
-| 🌱 [**Ecoloop**](https://github.com/SiddhiAgarwal0104/Ecoloop) | Sustainability-focused platform | Jupyter Notebook |
-| 🤖 [**FinPilot-AI**](https://github.com/nihira91/FinPilot-AI) | AI-powered financial assistant | Python |
-| ⚡ [**FixFlow**](https://github.com/nihira91/FixFlow) | Smart workflow automation | JavaScript |
+| 🌱 [**Ecoloop**](https://github.com/SiddhiAgarwal0104/Ecoloop) | Full-stack community resource sharing & sustainability platform | React.js · Node.js · Express.js · MongoDB · Socket.IO · Leaflet · MobileNet CNN |
+| 🤖 [**FinPilot-AI**](https://github.com/nihira91/FinPilot-AI) | Autonomous multi-agent financial intelligence system | Python · React.js · LangGraph · Google Gemini · ChromaDB · Pandas · Supabase |
+| ⚡ [**FixFlow**](https://github.com/nihira91/FixFlow) | Smart workflow automation tool | JavaScript |
 
 </div>
 
@@ -119,7 +120,9 @@ Hey! I'm Nihira — a CS undergrad at MNNIT Allahabad who loves turning ideas in
 
 <div align="center">
 
-[![Nihira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihira91&bg_color=0D1117&color=6EE7B7&line=3B82F6&point=ffffff&area=true&hide_border=true)](https://github.com/nihira91)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nihira91&theme=react&bg_color=0D1117&title_color=6EE7B7&text_color=ffffff&border_color=30363d" />
+
+![Snake animation](https://raw.githubusercontent.com/nihira91/nihira91/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
