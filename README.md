@@ -29,7 +29,6 @@ class Nihira:
     tools       = ["LangGraph", "FastMCP", "React", "MongoDB"]
 
     currently   = "Building things that matter 🚀"
-    fun_fact    = "I animated satellites and taught AI to handle finances 🛰️💸"
 ```
 
 <br/>
@@ -122,7 +121,7 @@ Hey! I'm Nihira — a CS undergrad at MNNIT Allahabad who loves turning ideas in
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nihira91&theme=react&bg_color=0D1117&title_color=6EE7B7&text_color=ffffff&border_color=30363d" />
 
-![Snake animation](https://raw.githubusercontent.com/nihira91/nihira91/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/nihira91/nihira91/output/github-contribution-grid-snake.svg)
 
 </div>
 
